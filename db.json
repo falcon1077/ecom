@@ -1,0 +1,500 @@
+{
+  "products": [
+    {
+      "_id": "c4f56ba12d7893e24b51a7c9",
+      "productName": "Emerald Isle Whiskey",
+      "productPrice": 53.99,
+      "averageRating": 4.9,
+      "productImage": "http://example.com/images/emerald-isle-whiskey.jpg",
+      "volume": 700,
+      "stock": 70,
+      "alcoholConcentration": 42,
+      "beverageDescription": "A unique Irish whiskey blend, matured in sherry casks",
+      "beverageCategory": "Irish Whiskey",
+      "beverageBrand": "Old Monk"
+    },
+    {
+      "_id": "b5g67ab23e7893f54c21d8f0",
+      "productName": "Blue Mountain Vodka",
+      "productPrice": 39.99,
+      "averageRating": 4.7,
+      "productImage": "http://example.com/images/blue-mountain-vodka.jpg",
+      "volume": 500,
+      "stock": 50,
+      "alcoholConcentration": 40,
+      "beverageDescription": "Smooth and pure vodka with a crisp finish",
+      "beverageCategory": "Vodka",
+      "beverageBrand": "Old Monk"
+    },
+    {
+      "_id": "f3h89de21g67y2w53v41z6h0",
+      "productName": "Golden Fields Gin",
+      "productPrice": 45.5,
+      "averageRating": 4.8,
+      "productImage": "http://example.com/images/golden-fields-gin.jpg",
+      "volume": 500,
+      "stock": 80,
+      "alcoholConcentration": 45,
+      "beverageDescription": "Aromatic gin with a blend of natural herbs",
+      "beverageCategory": "Gin",
+      "beverageBrand": "Old Monk"
+    },
+    {
+      "_id": "m4k56cd34l7893x24b51a9n8",
+      "productName": "Ruby Red Rum",
+      "productPrice": 37.99,
+      "averageRating": 4.6,
+      "productImage": "http://example.com/images/ruby-red-rum.jpg",
+      "volume": 700,
+      "stock": 60,
+      "alcoholConcentration": 38,
+      "beverageDescription": "Rich and smooth, aged in oak barrels",
+      "beverageCategory": "Rum",
+      "beverageBrand": "Old Monk"
+    },
+    {
+      "_id": "z7h89fd21g93a2w53v41z3f2",
+      "productName": "Silver Stream Tequila",
+      "productPrice": 49.99,
+      "averageRating": 4.5,
+      "productImage": "http://example.com/images/silver-stream-tequila.jpg",
+      "volume": 500,
+      "stock": 40,
+      "alcoholConcentration": 40,
+      "beverageDescription": "Smooth tequila with a fiery finish",
+      "beverageCategory": "Tequila",
+      "beverageBrand": "Old Monk"
+    },
+    {
+      "_id": "n6i57ed45m7894y34c62b8p3",
+      "productName": "Crystal Clear Cognac",
+      "productPrice": 59.99,
+      "averageRating": 4.8,
+      "productImage": "http://example.com/images/crystal-clear-cognac.jpg",
+      "volume": 700,
+      "stock": 55,
+      "alcoholConcentration": 40,
+      "beverageDescription": "Elegant and sophisticated, with a rich flavor",
+      "beverageCategory": "Cognac",
+      "beverageBrand": "Old Monk"
+    },
+    {
+      "_id": "o5j68fe56n8912z45d73c9q4",
+      "productName": "Pristine Peaks Scotch",
+      "productPrice": 64.99,
+      "averageRating": 4.9,
+      "productImage": "http://example.com/images/pristine-peaks-scotch.jpg",
+      "volume": 750,
+      "stock": 65,
+      "alcoholConcentration": 43,
+      "beverageDescription": "A classic Scotch whisky, with a smoky character",
+      "beverageCategory": "Scotch Whisky",
+      "beverageBrand": "Old Monk"
+    },
+    {
+      "_id": "p6k79gf67o9023a56e84d0r5",
+      "productName": "Amber Ale Beer",
+      "productPrice": 22.99,
+      "averageRating": 4.4,
+      "productImage": "http://example.com/images/amber-ale-beer.jpg",
+      "volume": 500,
+      "stock": 100,
+      "alcoholConcentration": 5,
+      "beverageDescription": "Rich in flavor, with a balance of malt and hops",
+      "beverageCategory": "Beer",
+      "beverageBrand": "Old Monk"
+    },
+    {
+      "_id": "q7l80hg78p0134b67f95e1s6",
+      "productName": "Blossom Blush Wine",
+      "productPrice": 29.99,
+      "averageRating": 4.3,
+      "productImage": "http://example.com/images/blossom-blush-wine.jpg",
+      "volume": 750,
+      "stock": 75,
+      "alcoholConcentration": 12,
+      "beverageDescription": "A delightful rosé with a hint of summer berries",
+      "beverageCategory": "Wine",
+      "beverageBrand": "Jack Daniels"
+    },
+    {
+      "_id": "r8m91ih89q0245c78g06f2t7",
+      "productName": "Orchard Apple Cider",
+      "productPrice": 19.99,
+      "averageRating": 4.2,
+      "productImage": "http://example.com/images/orchard-apple-cider.jpg",
+      "volume": 500,
+      "stock": 90,
+      "alcoholConcentration": 4.5,
+      "beverageDescription": "Crisp and refreshing with natural apple flavors",
+      "beverageCategory": "Cider",
+      "beverageBrand": "Jack Daniels"
+    },
+    {
+      "_id": "s9n02ij90r0356d89h07g3u8",
+      "productName": "Midnight Bourbon",
+      "productPrice": 55.99,
+      "averageRating": 4.7,
+      "productImage": "http://example.com/images/midnight-bourbon.jpg",
+      "volume": 700,
+      "stock": 60,
+      "alcoholConcentration": 45,
+      "beverageDescription": "Rich and full-bodied, aged to perfection",
+      "beverageCategory": "Bourbon",
+      "beverageBrand": "Jack Daniels"
+    },
+    {
+      "_id": "t0o03jk01s046e79i18h4v9",
+      "productName": "Frosty Lager Beer",
+      "productPrice": 18.99,
+      "averageRating": 4.3,
+      "productImage": "http://example.com/images/frosty-lager-beer.jpg",
+      "volume": 500,
+      "stock": 80,
+      "alcoholConcentration": 4.7,
+      "beverageDescription": "Light and crisp, with a smooth finish",
+      "beverageCategory": "Beer",
+      "beverageBrand": "Jack Daniels"
+    },
+    {
+      "_id": "u1p14kl12t057f80j29i5w0",
+      "productName": "Sunrise Sparkling Wine",
+      "productPrice": 33.99,
+      "averageRating": 4.6,
+      "productImage": "http://example.com/images/sunrise-sparkling-wine.jpg",
+      "volume": 750,
+      "stock": 70,
+      "alcoholConcentration": 11,
+      "beverageDescription": "Vibrant and bubbly, perfect for celebrations",
+      "beverageCategory": "Sparkling Wine",
+      "beverageBrand": "Jack Daniels"
+    },
+    {
+      "_id": "v2q25lm23u068g91k30j6x1",
+      "productName": "Arctic Brandy",
+      "productPrice": 49.99,
+      "averageRating": 4.5,
+      "productImage": "http://example.com/images/arctic-brandy.jpg",
+      "volume": 700,
+      "stock": 50,
+      "alcoholConcentration": 40,
+      "beverageDescription": "Smooth and mellow, with a warming finish",
+      "beverageCategory": "Brandy",
+      "beverageBrand": "Blenders Pride"
+    },
+    {
+      "_id": "w3r36mn34v079h02l41k7y2",
+      "productName": "Desert Gold Tequila",
+      "productPrice": 47.99,
+      "averageRating": 4.4,
+      "productImage": "http://example.com/images/desert-gold-tequila.jpg",
+      "volume": 500,
+      "stock": 45,
+      "alcoholConcentration": 38,
+      "beverageDescription": "Bold and smooth, with a spicy kick",
+      "beverageCategory": "Tequila",
+      "beverageBrand": "Blenders Pride"
+    },
+    {
+      "_id": "x4s47no45w08ai13m52l8z3",
+      "productName": "Heaven's Sake",
+      "productPrice": 40.99,
+      "averageRating": 4.8,
+      "productImage": "http://example.com/images/heavens-sake.jpg",
+      "volume": 500,
+      "stock": 65,
+      "alcoholConcentration": 16,
+      "beverageDescription": "Delicate and refined, a traditional Japanese sake",
+      "beverageCategory": "Sake",
+      "beverageBrand": "Blenders Pride"
+    },
+    {
+      "_id": "y5t58op56x09bj24n63m9a4",
+      "productName": "Mystic Malt Scotch",
+      "productPrice": 62.99,
+      "averageRating": 4.9,
+      "productImage": "http://example.com/images/mystic-malt-scotch.jpg",
+      "volume": 750,
+      "stock": 55,
+      "alcoholConcentration": 46,
+      "beverageDescription": "Complex and layered, with a smoky undertone",
+      "beverageCategory": "Scotch Whisky",
+      "beverageBrand": "Blenders Pride"
+    },
+    {
+      "_id": "z6u69pq67y10ck35o74n0b5",
+      "productName": "Ocean Breeze Vodka",
+      "productPrice": 36.99,
+      "averageRating": 4.5,
+      "productImage": "http://example.com/images/ocean-breeze-vodka.jpg",
+      "volume": 500,
+      "stock": 75,
+      "alcoholConcentration": 40,
+      "beverageDescription": "Crisp and clean, with a hint of sea salt",
+      "beverageCategory": "Vodka",
+      "beverageBrand": "Blenders Pride"
+    },
+    {
+      "_id": "a7v70qr78z11dl46p85o1c6",
+      "productName": "Green Valley Absinthe",
+      "productPrice": 65.99,
+      "averageRating": 4.7,
+      "productImage": "http://example.com/images/green-valley-absinthe.jpg",
+      "volume": 500,
+      "stock": 40,
+      "alcoholConcentration": 60,
+      "beverageDescription": "Intense and herbal, a traditional absinthe",
+      "beverageCategory": "Absinthe",
+      "beverageBrand": "Teachers"
+    },
+    {
+      "_id": "b8w81rs89a12em57q96p2d7",
+      "productName": "Royal Reserve Rum",
+      "productPrice": 41.99,
+      "averageRating": 4.6,
+      "productImage": "http://example.com/images/royal-reserve-rum.jpg",
+      "volume": 700,
+      "stock": 50,
+      "alcoholConcentration": 37,
+      "beverageDescription": "Smooth and sweet, with a hint of spice",
+      "beverageCategory": "Rum",
+      "beverageBrand": "Teachers"
+    },
+    {
+      "_id": "c9x92yt90b13fn68r07q3e8",
+      "productName": "Crystal Gin",
+      "productPrice": 42.99,
+      "averageRating": 4.6,
+      "productImage": "http://example.com/images/crystal-gin.jpg",
+      "volume": 700,
+      "stock": 65,
+      "alcoholConcentration": 40,
+      "beverageDescription": "Crisp and aromatic with a botanical blend",
+      "beverageCategory": "Gin",
+      "beverageBrand": "Teachers"
+    },
+    {
+      "_id": "d0a03zq01c14go79j18i5u9",
+      "productName": "Blazing Cider",
+      "productPrice": 25.99,
+      "averageRating": 4.2,
+      "productImage": "http://example.com/images/blazing-cider.jpg",
+      "volume": 500,
+      "stock": 80,
+      "alcoholConcentration": 5.5,
+      "beverageDescription": "Sweet and spicy, with a hint of cinnamon",
+      "beverageCategory": "Cider",
+      "beverageBrand": "Teachers"
+    },
+    {
+      "_id": "e1p15fm12d15hp80k20j6x0",
+      "productName": "Tropical Rum Punch",
+      "productPrice": 34.99,
+      "averageRating": 4.5,
+      "productImage": "http://example.com/images/tropical-rum-punch.jpg",
+      "volume": 750,
+      "stock": 70,
+      "alcoholConcentration": 20,
+      "beverageDescription": "Fruity and vibrant, a perfect summer drink",
+      "beverageCategory": "Cocktail",
+      "beverageBrand": "Teachers"
+    },
+    {
+      "_id": "f2q26gn23e16h91l31k7z1",
+      "productName": "Silver Moonlight Sake",
+      "productPrice": 50.99,
+      "averageRating": 4.7,
+      "productImage": "http://example.com/images/silver-moonlight-sake.jpg",
+      "volume": 500,
+      "stock": 55,
+      "alcoholConcentration": 15,
+      "beverageDescription": "Smooth and subtle, perfect for sake connoisseurs",
+      "beverageCategory": "Sake",
+      "beverageBrand": "Red Label"
+    },
+    {
+      "_id": "g3r37no34f17i02m42l8z2",
+      "productName": "Old Captain Rum",
+      "productPrice": 48.99,
+      "averageRating": 4.4,
+      "productImage": "http://example.com/images/old-captain-rum.jpg",
+      "volume": 700,
+      "stock": 60,
+      "alcoholConcentration": 38,
+      "beverageDescription": "Rich and bold, aged in oak barrels",
+      "beverageCategory": "Rum",
+      "beverageBrand": "Red Label"
+    },
+    {
+      "_id": "h4s48op45g18aj14n53m9b3",
+      "productName": "Alpine Whiskey",
+      "productPrice": 57.99,
+      "averageRating": 4.8,
+      "productImage": "http://example.com/images/alpine-whiskey.jpg",
+      "volume": 750,
+      "stock": 50,
+      "alcoholConcentration": 43,
+      "beverageDescription": "Smooth with a hint of mountain herbs",
+      "beverageCategory": "Whiskey",
+      "beverageBrand": "Red Label"
+    },
+    {
+      "_id": "i5t59pr56g19bk25o64n0c4",
+      "productName": "Velvet Cream Liqueur",
+      "productPrice": 29.99,
+      "averageRating": 4.6,
+      "productImage": "http://example.com/images/velvet-cream-liqueur.jpg",
+      "volume": 500,
+      "stock": 75,
+      "alcoholConcentration": 17,
+      "beverageDescription": "Creamy and rich, with a velvety texture",
+      "beverageCategory": "Liqueur",
+      "beverageBrand": "Red Label"
+    },
+    {
+      "_id": "j6u70qs67h20cl36p75o1d5",
+      "productName": "Polar Ice Vodka",
+      "productPrice": 39.99,
+      "averageRating": 4.5,
+      "productImage": "http://example.com/images/polar-ice-vodka.jpg",
+      "volume": 700,
+      "stock": 80,
+      "alcoholConcentration": 40,
+      "beverageDescription": "Exceptionally smooth and clean, distilled five times",
+      "beverageCategory": "Vodka",
+      "beverageBrand": "Red Label"
+    },
+    {
+      "_id": "k7v81rt78i21dm58r96p2e6",
+      "productName": "Golden Fields Scotch",
+      "productPrice": 63.99,
+      "averageRating": 4.9,
+      "productImage": "http://example.com/images/golden-fields-scotch.jpg",
+      "volume": 700,
+      "stock": 45,
+      "alcoholConcentration": 46,
+      "beverageDescription": "Elegant and smooth, with a hint of peat",
+      "beverageCategory": "Scotch Whisky",
+      "beverageBrand": "Red Label"
+    },
+    {
+      "_id": "l8w92su89j22en69s07q2f7",
+      "productName": "Blue Lagoon Absinthe",
+      "productPrice": 66.99,
+      "averageRating": 4.8,
+      "productImage": "http://example.com/images/blue-lagoon-absinthe.jpg",
+      "volume": 500,
+      "stock": 40,
+      "alcoholConcentration": 60,
+      "beverageDescription": "Vivid and intense, with a unique blue hue",
+      "beverageCategory": "Absinthe",
+      "beverageBrand": "Red Label"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Lindsay Parker",
+      "rating": 5,
+      "user_image": "lindsay_parker.jpg",
+      "comment": "The Tequila Blanco is pure perfection! Smooth and great for sipping."
+    },
+    {
+      "id": 2,
+      "name": "Chris Anderson",
+      "rating": 4,
+      "user_image": "chris_anderson.png",
+      "comment": "Tried the Craft Lager - crisp and refreshing, just what I needed."
+    },
+    {
+      "id": 3,
+      "name": "Sophia Ramirez",
+      "rating": 5,
+      "user_image": "sophia_ramirez.jpg",
+      "comment": "The Merlot Reserve is my new favorite red wine. Rich and velvety!"
+    },
+    {
+      "id": 4,
+      "name": "Jake Roberts",
+      "rating": 4,
+      "user_image": "jake_roberts.jpeg",
+      "comment": "The Bourbon Blend has a unique flavor profile that I absolutely love."
+    },
+    {
+      "id": 5,
+      "name": "Ava Thompson",
+      "rating": 5,
+      "user_image": "ava_thompson.jpg",
+      "comment": "Sipped on the Chardonnay — elegant and refreshing. Highly recommend!"
+    },
+    {
+      "id": 6,
+      "name": "Daniel White",
+      "rating": 4,
+      "user_image": "daniel_white.png",
+      "comment": "The Rum Punch is a tropical delight. Perfect for beach vibes!"
+    },
+    {
+      "id": 7,
+      "name": "Mia Garcia",
+      "rating": 5,
+      "user_image": "mia_garcia.jpg",
+      "comment": "In love with the Sparkling Rosé. Effervescent and delightful!"
+    },
+    {
+      "id": 8,
+      "name": "Ethan Miller",
+      "rating": 4,
+      "user_image": "ethan_miller.jpeg",
+      "comment": "The Single Malt Scotch is a true gem. Smoky and smooth finish!"
+    },
+    {
+      "id": 9,
+      "name": "Isabella Martinez",
+      "rating": 5,
+      "user_image": "isabella_martinez.jpg",
+      "comment": "The Vodka Infusion is a game-changer for cocktails. So versatile!"
+    },
+    {
+      "id": 10,
+      "name": "Noah Brown",
+      "rating": 4,
+      "user_image": "noah_brown.png",
+      "comment": "Enjoyed the Craft IPA. Bold hops make it a craft beer lover's dream!"
+    }
+  ],
+  "cart": [
+    {
+      "id": "65aba9946c0fad4e91b281ac",
+      "productImage": "testImage",
+      "productName": "Arctic Ice Tequila",
+      "productPrice": 47,
+      "quantity": 3
+    },
+    {
+      "id": "65aba98b6c0fad4e91b281aa",
+      "productName": "Royal Brandy",
+      "productPrice": 55,
+      "quantity": 2,
+      "productImage": "testImage"
+    }
+  ],
+  "orders": [
+    {
+      "id": "6",
+      "productName": "Brandy Select",
+      "productPrice": 54.99,
+      "quantity": 1,
+      "productImage": "testImage",
+      "status": "not yet dispatched"
+    },
+    {
+      "id": "8",
+      "productName": "Champagne Celebration",
+      "productPrice": 69.99,
+      "quantity": 1,
+      "productImage": "testImage",
+      "status": "not yet dispatched"
+    }
+  ]
+}
